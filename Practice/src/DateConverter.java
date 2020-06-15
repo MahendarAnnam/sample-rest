@@ -9,7 +9,7 @@ public class DateConverter {
 		   
 			Date date = new Date(1586508667*1000L);
 	        String format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(date);
-	        TimeZone time = date.;
+	        
 		    System.out.println(format+"\n");
 		} catch (Exception e) {
 		    e.printStackTrace();
