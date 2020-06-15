@@ -9,7 +9,7 @@ public class SendTextMessage {
 
 	public static void main(String[] args) throws Exception{
 		// TODO Auto-generated method stub
-		String message = "Hi , Mahendar";		
+		String message = "Hi , Mahendar \n How are you?";		
 		String phone = "8886426618";
 		String username = "abcd";
 		String password = "1234";
